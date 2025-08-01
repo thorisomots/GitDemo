@@ -22,4 +22,8 @@ public class PS3 {
 		
 	}
 	
+	public int getA() {
+		return a;
+	}
+	
 }

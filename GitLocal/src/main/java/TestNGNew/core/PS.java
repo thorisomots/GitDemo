@@ -18,4 +18,8 @@ public class PS {
 		System.out.println("This is a message from the PS class!");
 	}
 	
+	public void msg2() {
+		System.out.println("This is a message from the PS class again!");
+	}
+	
 }
