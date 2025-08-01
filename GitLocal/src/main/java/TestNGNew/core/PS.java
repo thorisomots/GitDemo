@@ -15,7 +15,11 @@ public class PS {
 	}
 	
 	public void msg1() {
-		system.out.println("This is a message from the PS class!");
+		System.out.println("This is a message from the PS class!");
+	}
+	
+	public void msg2() {
+		System.out.println("This is a message from the PS class again!");
 	}
 	
 }

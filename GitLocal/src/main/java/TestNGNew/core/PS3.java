@@ -22,11 +22,16 @@ public class PS3 {
 		
 	}
 	
+
 	public int multiplyByFour() {
 		a=a*4;
 		
 		return a;
 		
+
+	public int getA() {
+		return a;
+
 	}
 	
 }
