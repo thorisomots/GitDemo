@@ -23,6 +23,7 @@ public class PS1 extends PS {
 		System.out.println(math.multiplyByThree());
 		System.out.println("Completed");
 		System.out.println("Now to the next test!!!");
+		System.out.println("Proceed with adding more methods!!!");
 
 	}
 }
