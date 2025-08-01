@@ -13,6 +13,6 @@ public class App
     }
     
     public void msg() {
-    	sysout.println("This is a message from the App class!");
+    	System.out.println("This is a message from the App class!");
     }
 }
