@@ -11,4 +11,8 @@ public class App
         System.out.println( "Hello World!" );
         System.out.println( "Web Automation" );
     }
+    
+    public void msg() {
+    	sysout.println("This is a message from the App class!");
+    }
 }

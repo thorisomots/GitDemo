@@ -14,4 +14,8 @@ public class PS {
 		System.out.println("Run first!!!");
 	}
 	
+	public void msg1() {
+		system.out.println("This is a message from the PS class!");
+	}
+	
 }
